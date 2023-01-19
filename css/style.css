@@ -122,7 +122,6 @@ body {
 }
 #education .resume-wrap {
   display: flex;
-  flex-wrap: wrap;
 }
 #education .resume-wrap h1 {
   color: #cdb400;
