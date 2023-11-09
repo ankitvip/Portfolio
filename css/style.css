@@ -237,6 +237,12 @@ footer a {
 footer a:hover {
   color: #39a7a7;
 }
+.card_width_ad{
+  min-height: 500px;
+  max-height: 500px;
+  overflow-y:scroll;
+}
+  
 @media only screen and (max-width: 600px) {
   #projects .project .card,
   #main .card,
